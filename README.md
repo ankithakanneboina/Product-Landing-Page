@@ -114,4 +114,3 @@ Open with VS Code Live Server for preview.
 This Personal Landing Page is a minimal yet powerful representation of my developer identity.
 It’s designed to make a strong first impression and quickly connect visitors to my projects and professional profiles.
 
-Would you like me to make a README + screenshots table template for your “Smart Kisaan” full stack project next (including database, backend, and features layout)? It’ll match your other project READMEs perfectly.
