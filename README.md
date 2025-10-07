@@ -98,9 +98,9 @@ Open with VS Code Live Server for preview.
 
 | Section | Screenshot | Description |
 |----------|-------------|--------------|
-| 🏠 **Home Page** | ![Home Screenshot](screenshots(106).png) | Hero section with name, title, and call-to-action buttons. |
-| 👩‍💻 **About Section** | ![About Screenshot](screenshots(106).png) | Short introduction, education details, and developer bio. |
-| 🧩 **Projects Section** | ![Projects Screenshot](screenshots(106).png) | Grid of projects (Quiz App, Smart Kisaan, Portfolio). |
+| 🏠 **Home Page** | ![Home Screenshot](Screenshots(106).png) | Hero section with name, title, and call-to-action buttons. |
+| 👩‍💻 **About Section** | ![About Screenshot](Screenshots(106).png) | Short introduction, education details, and developer bio. |
+| 🧩 **Projects Section** | ![Projects Screenshot](Screenshots(106).png) | Grid of projects (Quiz App, Smart Kisaan, Portfolio). |
 
 🧑‍💻 Author
 
